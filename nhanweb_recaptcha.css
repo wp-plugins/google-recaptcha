@@ -1,0 +1,7 @@
+#loginform #wp-submit,
+#lostpasswordform #wp-submit,
+#registerform #wp-submit,
+#commentform #submit
+{
+    display: none;
+}
